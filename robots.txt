@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: 
+Sitemap:http://hwa.fullrecovery.xyz/sitemap.xml
+
+User-agent:Yeti
+Disallow: 
